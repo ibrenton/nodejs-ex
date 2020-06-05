@@ -1,1 +1,2 @@
-This is a test file to use for using CommitStream.
+Commit 1: This is a test file to use for using CommitStream.
+Commit 2
